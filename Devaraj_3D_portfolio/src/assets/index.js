@@ -54,8 +54,8 @@ import website from "../assets/website.png";
 import AIchat from "./projects/AIChat.png";
 import careerguidex from "./projects/careerguidex.png";
 import foodie from "./projects/foodie.png";
-import jobportal from "./projects/jobportal.png";
-import nammaride from "./projects/nammaride.png";
+import jobportal from "./projects/Jobportal.png";
+import nammaride from "./projects/Nammaride.png";
 
 export {
   logo,
